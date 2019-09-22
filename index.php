@@ -334,79 +334,73 @@
 						<div class="active-upcoming-event-carusel">
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e1.jpg" alt="">
+									<img class="img-fluid" src="images/kelas/hmsi_ip.jpeg" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="#"><h4>The Universe Through
-									A Child S Eyes</h4></a>
+									<p>HIMPUNAN SEMA IP</p>
+									<a href="https://www.instagram.com/hmsi_ipem/"><h4>HMSI (Himpunan mahasiswa sistem informasi)</h4></a>
 									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
+										Salah satu himpunana mahasiswa Insan pembangunan, banyak kegiatan seperti acara seminar dll.
 									</p>
 								</div>
 							</div>
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e2.jpg" alt="">
+									<img class="img-fluid" src="images/kelas/hmak_ip.jpeg" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="#"><h4>The Universe Through
-									A Child S Eyes</h4></a>
+									<p>HIMPUNAN SEMA IP</p>
+									<a href="https://www.instagram.com/hmak_ipem/"><h4>HMAK (Himpunan mahasiswa akuntasi)</h4></a>
 									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
+										Salah satu himpunana mahasiswa Insan pembangunan, banyak kegiatan seperti acara seminar dll.
 									</p>
 								</div>
 							</div>	
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e1.jpg" alt="">
+									<img class="img-fluid" src="images/kelas/hmm_ip.jpeg" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="#"><h4>The Universe Through
-									A Child S Eyes</h4></a>
+									<p>HIMPUNAN SEMA IP</p>
+									<a href="https://www.instagram.com/hmm_ipem/"><h4>HMM (Himpunan mahasiswa manajemen)</h4></a>
 									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
+										Salah satu himpunana mahasiswa Insan pembangunan, banyak kegiatan seperti acara seminar dll.
 									</p>
 								</div>
 							</div>	
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e1.jpg" alt="">
+									<img class="img-fluid" src="images/kelas/hmsia_ip.jpeg" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="#"><h4>The Universe Through
-									A Child S Eyes</h4></a>
+									<p>HIMPUNAN SEMA IP</p>
+									<a href="https://www.instagram.com/hmsia_ip/"><h4>HMSIA (Himpunan mahasiswa sistem informasi akuntansi</h4></a>
 									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
+										Salah satu himpunana mahasiswa Insan pembangunan, banyak kegiatan seperti acara seminar dll.
 									</p>
 								</div>
 							</div>
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e2.jpg" alt="">
+									<img class="img-fluid" src="images/kelas/kuas_ip.jpeg" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="#"><h4>The Universe Through
-									A Child S Eyes</h4></a>
+									<p>DEPARTEMEN SEMA IP</p>
+									<a href="https://www.instagram.com/kuas_ipem/"><h4>KUAS IPEM</h4></a>
 									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
+										Salah satu departemen mahasiswa Insan pembangunan, banyak kegiatan seperti acara seminar dll.
 									</p>
 								</div>
 							</div>	
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e1.jpg" alt="">
+									<img class="img-fluid" src="images/kelas/pealip_ip.jpeg" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="#"><h4>The Universe Through
-									A Child S Eyes</h4></a>
+									<p>DEPARTEMEN SEMA IP</p>
+									<a href="https://www.instagram.com/pealip_ip/"><h4>PEALIP IPEM</h4></a>
 									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
+										Salah satu departemen mahasiswa Insan pembangunan, banyak kegiatan seperti acara seminar dll.
 									</p>
 								</div>
 							</div>																						
@@ -424,7 +418,7 @@
 						<div class="active-review-carusel">
 							<div class="single-review item">
 								<div class="title justify-content-start d-flex">
-									<a href="#"><h4>Fannie Rowe</h4></a>
+									<a href="#"><h4>PHP (PHP Hypertext Pre-processor)</h4></a>
 									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
@@ -434,12 +428,12 @@
 									</div>
 								</div>
 								<p>
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									merupakan bahasa pemrograman yang paling banyak digunakan di Indonesia. Selain karena gratis, PHP banyak digunakan karena bahasa pemrograman ini merupakan server side scripting yang memang dirancang untuk membangun website dinamis. Selain itu banyak website-website ternama seperti Facebook, Wordpress, ataupun Digg yang menggunakan PHP dalam pengembangannya. PHP pertama kali dikembangkan oleh Rasmus Lerdrorf.
 								</p>
 							</div>
 							<div class="single-review item">
 								<div class="title justify-content-start d-flex">
-									<a href="#"><h4>Hulda Sutton</h4></a>
+									<a href="#"><h4>JavaScript</h4></a>
 									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
@@ -449,12 +443,12 @@
 									</div>
 								</div>
 								<p>
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									JavaScript adalah bahasa pemrograma yang dikembangkan oleh Netscape. Penggunaan JavaScript saat ini kebanyakan terdapat pada pengembangan web. Dengan JavaScript ini kita bisa membuat web yang interaktif dan menarik. Di Indonesia sendiri terdapat grup Facebook yang membahas tentang JavaScript ini dengan nama JavaScript Indonesia. Grup yang beranggotakan lebih dari 10 ribu orang ini masih aktif sampai sekarang.
 								</p>
 							</div>
 							<div class="single-review item">
 								<div class="title justify-content-start d-flex">
-									<a href="#"><h4>Fannie Rowe</h4></a>
+									<a href="#"><h4>CSS (Cascading Style Sheet)</h4></a>
 									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
@@ -464,12 +458,12 @@
 									</div>
 								</div>
 								<p>
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs. 
 								</p>
 							</div>
 							<div class="single-review item">
 								<div class="title justify-content-start d-flex">
-									<a href="#"><h4>Hulda Sutton</h4></a>
+									<a href="#"><h4>Java</h4></a>
 									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
@@ -479,12 +473,12 @@
 									</div>
 								</div>
 								<p>
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam. Bahasa ini awalnya dibuat oleh James Gosling saat masih bergabung di Sun Microsystems saat ini merupakan bagian dari Oracle dan dirilis tahun 1995. Bahasa ini banyak mengadopsi sintaksis yang terdapat pada C dan C++ namun dengan sintaksis model objek yang lebih sederhana serta dukungan rutin-rutin aras bawah yang minimal. Aplikasi-aplikasi berbasis java umumnya dikompilasi ke dalam p-code (bytecode) dan dapat dijalankan pada berbagai Mesin Virtual Java (JVM).
 								</p>
 							</div>	
 							<div class="single-review item">
 								<div class="title justify-content-start d-flex">
-									<a href="#"><h4>Fannie Rowe</h4></a>
+									<a href="#"><h4>Visual Basic .NET</h4></a>
 									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
@@ -494,12 +488,12 @@
 									</div>
 								</div>
 								<p>
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									Visual Basic .NET adalah sebuah alat untuk mengembangkan dan membangun aplikasi yang bergerak di atas sistem .NET Framework, dengan menggunakan bahasa BASIC. Dengan menggunakan alat ini, para programmer dapat membangun aplikasi Windows Forms, Aplikasi web berbasis ASP.NET, dan juga aplikasi command-line. Alat ini dapat diperoleh secara terpisah dari beberapa produk lainnya (seperti Microsoft Visual C++, Visual C#, atau Visual J#), atau juga dapat diperoleh secara terpadu dalam Microsoft Visual Studio .NET.
 								</p>
 							</div>
 							<div class="single-review item">
 								<div class="title justify-content-start d-flex">
-									<a href="#"><h4>Hulda Sutton</h4></a>
+									<a href="#"><h4>C++</h4></a>
 									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
@@ -509,13 +503,13 @@
 									</div>
 								</div>
 								<p>
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									C++ adalah bahasa pemrograman komputer yang di buat oleh Bjarne Stroustrup, yang merupakan perkembangan dari bahasa C dikembangkan di Bong Labs (Dennis Ritchie) pada awal tahun 1970-an, Bahasa itu diturunkan dari bahasa sebelumnya, yaitu B, Pada awalnya, bahasa tersebut dirancang sebagai bahasa pemrograman yang dijalankan pada sistem Unix, Pada perkembangannya, versi ANSI (American National Standart Institute) Bahasa pemrograman C menjadi versi dominan, Meskipun versi tersebut sekarang jarang dipakai dalam pengembangan sistem dan jaringan maupun untuk sistem embedded, Bjarne Stroustrup pada Bel labs pertama kali mengembangkan C++ pada awal 1980-an. 
 								</p>
 							</div>
 							<div class="single-review item">
 								<img src="img/r1.png" alt="">
 								<div class="title justify-content-start d-flex">
-									<a href="#"><h4>Fannie Rowe</h4></a>
+									<a href="#"><h4>Delphi</h4></a>
 									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
@@ -525,12 +519,12 @@
 									</div>
 								</div>
 								<p>
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									Delphi adalah sebuah Lingkungan pengembangan terpadu (IDE) untuk mengembangkan aplikasi konsol, desktop, web, ataupun perangkat mobile. Produk ini pada awalnya dikembangkan oleh CodeGear sebagai divisi pengembangan perangkat lunak milik Embarcadero, divisi tersebut sebelumnya adalah milik Borland.
 								</p>
 							</div>
 							<div class="single-review item">
 								<div class="title justify-content-start d-flex">
-									<a href="#"><h4>Hulda Sutton</h4></a>
+									<a href="#"><h4>Android</h4></a>
 									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
@@ -540,7 +534,7 @@
 									</div>
 								</div>
 								<p>
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									adalah sistem operasi berbasis Linux yang dirancang untuk perangkat bergerak layar sentuh seperti telepon pintar dan komputer tablet.[11] Android awalnya dikembangkan oleh Android, Inc., dengan dukungan finansial dari Google, yang kemudian membelinya pada tahun 2005
 								</p>
 							</div>																												
 						</div>
@@ -575,12 +569,12 @@
 							<div class="thumb">
 								<img class="img-fluid" src="img/b1.jpg" alt="">								
 							</div>
-							<p class="meta">25 April, 2018  |  By <a href="#">Mark Wiens</a></p>
-							<a href="blog-single.html">
-								<h5>Addiction When Gambling Becomes A Problem</h5>
+							<!-- <p class="meta">25 April, 2018  |  By <a href="#">Mark Wiens</a></p> -->
+							<a href="#">
+								<h5>Nabi Muhammad SAW</h5>
 							</a>
 							<p>
-								Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in front of their.
+								“Jika seseorang bepergian dengan tujuan mencari ilmu, maka Allah akan menjadikan perjalanannya seperti perjalanan menuju surga”.
 							</p>
 							<a href="#" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Details</span><span class="lnr lnr-arrow-right"></span></a>		
 						</div>
@@ -588,12 +582,12 @@
 							<div class="thumb">
 								<img class="img-fluid" src="img/b2.jpg" alt="">								
 							</div>
-							<p class="meta">25 April, 2018  |  By <a href="#">Mark Wiens</a></p>
+							<!-- <p class="meta">25 April, 2018  |  By <a href="#">Mark Wiens</a></p> -->
 							<a href="blog-single.html">
-								<h5>Computer Hardware Desktops And Notebooks</h5>
+								<h5>Nelson Mandela</h5>
 							</a>
 							<p>
-								Ah, the technical interview. Nothing like it. Not only does it cause anxiety, but it causes anxiety for several different reasons. 
+								“Pendidikan adalah senjata paling mematikan di dunia, karena dengan pendidikan, Anda dapat mengubah dunia”. 
 							</p>
 							<a href="#" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Details</span><span class="lnr lnr-arrow-right"></span></a>						
 						</div>
@@ -601,12 +595,12 @@
 							<div class="thumb">
 								<img class="img-fluid" src="img/b3.jpg" alt="">								
 							</div>
-							<p class="meta">25 April, 2018  |  By <a href="#">Mark Wiens</a></p>
+							<!-- <p class="meta">25 April, 2018  |  By <a href="#">Mark Wiens</a></p> -->
 							<a href="blog-single.html">
-								<h5>Make Myspace Your Best Designed Space</h5>
+								<h5>Albert Einstein</h5>
 							</a>
 							<p>
-								Plantronics with its GN Netcom wireless headset creates the next generation of wireless headset and other products such as wireless.
+								“Agama tanpa ilmu adalah buta. Ilmu tanpa agama adalah lumpuh”.
 							</p>
 							<a href="#" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Details</span><span class="lnr lnr-arrow-right"></span></a>									
 						</div>
@@ -614,12 +608,12 @@
 							<div class="thumb">
 								<img class="img-fluid" src="img/b4.jpg" alt="">								
 							</div>
-							<p class="meta">25 April, 2018  |  By <a href="#">Mark Wiens</a></p>
+							<!-- <p class="meta">25 April, 2018  |  By <a href="#">Mark Wiens</a></p> -->
 							<a href="blog-single.html">
-								<h5>Video Games Playing With Imagination</h5>
+								<h5>Bill Gates</h5>
 							</a>
 							<p>
-								About 64% of all on-line teens say that do things online that they wouldn’t want their parents to know about.   11% of all adult internet 
+								“Adalah baik untuk merayakan kesuksesan, tapi hal yang lebih penting adalah untuk mengambil pelajaran dari kegagalan”. 
 							</p>
 							<a href="#" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Details</span><span class="lnr lnr-arrow-right"></span></a>							
 						</div>							

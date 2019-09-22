@@ -30,7 +30,7 @@ include 'config/koneksi.php';
 			<link rel="stylesheet" href="assets/education/css/owl.carousel.css">			
 			<link rel="stylesheet" href="assets/education/css/jquery-ui.css">			
 			<link rel="stylesheet" href="assets/education/css/main.css">
-			<link rel="icon" type="img/png" href="assets/education/img/sid.jpg">
+			<link rel="icon" type="img/png" href="images/kelas/logosid.png" class="img-circle">
 		</head>
 		<body>	
 		  <header id="header" id="home">
@@ -55,7 +55,7 @@ include 'config/koneksi.php';
 		    <div class="container main-menu">
 		    	<div class="row align-items-center justify-content-between d-flex">
 			      <div id="logo">
-			        <a href="index.html"><img src="assets/education/img/sid.jpg" width="50" height="50" alt="" title="" /></a>
+			        <a href="index.php"><img src="images/kelas/logo_sid..png" width="100" height="50" alt="" title="" /></a>
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">

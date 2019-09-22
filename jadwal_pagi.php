@@ -130,15 +130,15 @@ $query = mysqli_query($koneksi,"SELECT * FROM kategori ORDER BY kategori_id ASC"
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-8 cta-left">
-							<h1>Not Yet Satisfied with our Trend?</h1>
+							<h1>Belum Puas dengan Tren kita?</h1>
 						</div>
 						<div class="col-lg-4 cta-right">
-							<a class="primary-btn wh" href="#">view our blog</a>
+							<a class="primary-btn wh" href="#">Lihat Blog Kami</a>
 						</div>
 					</div>
 				</div>	
 			</section>
-			<!-- End cta-two Area -->						    				
+			<!-- End cta-two Area -->					    				
 		</body>
 		<?php include'footer.php'; ?>
 	</html>

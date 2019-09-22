@@ -43,67 +43,67 @@
 							<div class="social-nav row no-gutters">
 								<div class="col-lg-6 col-md-6 ">
 									<ul class="focials">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="https://web.facebook.com/jendol.jendol.1848?ref=bookmarks"><i class="fa fa-facebook"></i></a></li>
 										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+										<li><a href="http://sisteminformasid2016.rf.gd"><i class="fa fa-dribbble"></i></a></li>
 										<li><a href="#"><i class="fa fa-behance"></i></a></li>
 									</ul>
 								</div>
 								<div class="col-lg-6 col-md-6 navs">
-									<a href="#" class="nav-prev"><span class="lnr lnr-arrow-left"></span>Prev Event</a>
-									<a href="#" class="nav-next">Next Event<span class="lnr lnr-arrow-right"></span></a>									
+									<a href="#" class="nav-prev"><span class="lnr lnr-arrow-left"></span>Kembali</a>
+									<a href="#" class="nav-next">Lanjut<span class="lnr lnr-arrow-right"></span></a>									
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 event-details-right">
 							<div class="single-event-details">
-								<h4>Details</h4>
+								<h4>Web Kampus</h4>
 								<ul class="mt-10">
 									<li class="justify-content-between d-flex">
-										<span>Start date</span>
-										<span>15th April, 2018</span>
+										<span>Kelas D 2016</span>
+										<span><a href="http://sisteminformasid2016.rf.gd">kelasd.web.id</a></span>
 									</li>
 									<li class="justify-content-between d-flex">
-										<span>End date</span>
-										<span>18th April, 2018</span>
+										<span>STMIK IPEM</span>
+										<span><a href="https://stmik.ipem.ac.id/">stmik.ipem.ac.id</a></span>
 									</li>
 									<li class="justify-content-between d-flex">
-										<span>Ticket Price</span>
-										<span>Free of Cost</span>
+										<span>E-Campus</span>
+										<span><a href="http://ecampus.ipem.ac.id/">ecampus.ipem.ac.id</a></span>
 									</li>														
 								</ul>
 							</div>
 							<div class="single-event-details">
-								<h4>Venue</h4>
+								<h4>Tutorial Link</h4>
 								<ul class="mt-10">
 									<li class="justify-content-between d-flex">
-										<span>Place</span>
-										<span>Main Hallroom</span>
+										<span>WPU</span>
+										<span><a href="https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg?pbjreload=10">Web Program Unpas</a></span>
 									</li>
 									<li class="justify-content-between d-flex">
-										<span>Street</span>
-										<span>Bullevard Street</span>
+										<span>Malas Ngoding</span>
+										<span><a href="https://www.malasngoding.com/">Malas Ngoding</a></span>
 									</li>
 									<li class="justify-content-between d-flex">
-										<span>City</span>
-										<span>Santa Monica</span>
+										<span>Sekolah Koding</span>
+										<span><a href="https://sekolahkoding.com/">Sekolah Koding</a></span>
 									</li>														
 								</ul>
 							</div>
 							<div class="single-event-details">
-								<h4>Organiser</h4>
+								<h4>Software</h4>
 								<ul class="mt-10">
 									<li class="justify-content-between d-flex">
-										<span>Company</span>
-										<span>Colorlib</span>
+										<span>XAMPP</span>
+										<span><a href="https://www.apachefriends.org">Xampp</a></span>
 									</li>
 									<li class="justify-content-between d-flex">
-										<span>Street</span>
-										<span>Bullevard Street</span>
+										<span>Sublime Text</span>
+										<span><a href="https://www.sublimetext.com/">Sublimetext</a></span>
 									</li>
 									<li class="justify-content-between d-flex">
-										<span>City</span>
-										<span>Santa Monica</span>
+										<span>GIT</span>
+										<span><a href="https://git-scm.com/">Git</a></span>
 									</li>														
 								</ul>
 							</div>														
@@ -119,10 +119,10 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-8 cta-left">
-							<h1>Not Yet Satisfied with our Trend?</h1>
+							<h1>Belum Puas dengan Tren kita?</h1>
 						</div>
 						<div class="col-lg-4 cta-right">
-							<a class="primary-btn wh" href="#">view our blog</a>
+							<a class="primary-btn wh" href="#">Lihat Blog Kami</a>
 						</div>
 					</div>
 				</div>	
