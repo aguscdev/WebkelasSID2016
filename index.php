@@ -374,7 +374,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>HIMPUNAN SEMA IP</p>
-									<a href="https://www.instagram.com/hmsia_ip/"><h4>HMSIA (Himpunan mahasiswa sistem informasi akuntansi</h4></a>
+									<a href="https://www.instagram.com/hmsia_ip/"><h4>HMSIA (Himpunan mahasiswa sistem informasi akuntansi)</h4></a>
 									<p>
 										Salah satu himpunana mahasiswa Insan pembangunan, banyak kegiatan seperti acara seminar dll.
 									</p>

@@ -41,10 +41,10 @@
 									<div class="overlay overlay-bg"></div>	
 									<img src="mahasiswa/<?php echo $d['foto']; ?>" width="50" height="195"/>
 								</div>
-								<div class="meta d-flex justify-content-between">
+								<!-- <div class="meta d-flex justify-content-between">
 									<p><span class="lnr lnr-users"></span> 355 <span class="lnr lnr-bubble"></span>35</p>
 									<h4>$150</h4>
-								</div>									
+								</div> -->									
 							</div>
 							<div class="details">
 								<a href="course-details.html">
@@ -167,7 +167,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>HIMPUNAN SEMA IP</p>
-									<a href="https://www.instagram.com/hmsia_ip/"><h4>HMSIA (Himpunan mahasiswa sistem informasi akuntansi</h4></a>
+									<a href="https://www.instagram.com/hmsia_ip/"><h4>HMSIA (Himpunan mahasiswa sistem informasi akuntansi)</h4></a>
 									<p>
 										Salah satu himpunana mahasiswa Insan pembangunan, banyak kegiatan seperti acara seminar dll.
 									</p>

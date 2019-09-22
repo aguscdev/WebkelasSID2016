@@ -30,41 +30,44 @@ $query = mysqli_query($koneksi,"SELECT * FROM kategori ORDER BY kategori_id ASC"
 						<h1 class="mb-10">Jadwal Mata Kuliah</h1>
 						<p>Sistem Informasi D 2016.</p>
 					</div>
-                	<div class="panel-body">
-	                    <table id="dtUser" class="table table-bordered">
-	                        <thead>
-							<th>No</th>
-							<!-- <th>Jadwal Id</th> -->
-							<th>Kelas</th>
-							<th>Hari</th>
-							<th>Mata kuliah</th>
-							<th>Ruangan</th>
-							<th>Jam</th>
-							<th>Nama Dosen</th>
-							</thead>
-						<tbody>
-						<?php
-                            include 'config/koneksi.php';
-                            $no = 1;
-                            $data = mysqli_query($koneksi,"SELECT * FROM jadwal_malam 
-                            	JOIN kategori ON jadwal_malam.kategori_id=kategori.kategori_id
-                            	JOIN matkul ON jadwal_malam.matkul_id=matkul.matkul_id
-                            	JOIN dosen ON jadwal_malam.dosen_id=dosen.dosen_id");
-                            while($d = mysqli_fetch_array($data)) {
-                        ?>
-						<tr>
-							<td><?php echo $no++; ?></td>
-							<!-- <td><?php echo $d['jadwal_id']; ?></td> -->
-							<td><?php echo $d['kategori']; ?></td>
-							<td><?php echo $d['hari']; ?></td>
-							<td><?php echo $d['matkul']; ?></td>
-							<td><?php echo $d['ruang']; ?></td>
-							<td><?php echo $d['jam']; ?></td>
-							<td><?php echo $d['nama_dosen']; ?></td>
-						</tr><?php } ?>
-					</tbody>
-				</table>
-            </div>
+                	<div class="row">
+                		<div class="col-md-12">
+		                    <table id="dtUser" class="table table-hover table-striped table-bordered">
+		                        <thead>
+									<th>No</th>
+									<!-- <th>Jadwal Id</th> -->
+									<th>Kelas</th>
+									<th>Hari</th>
+									<th>Mata kuliah</th>
+									<th>Ruangan</th>
+									<th>Jam</th>
+									<th>Nama Dosen</th>
+								</thead>
+								<tbody>
+									<?php
+			                            include 'config/koneksi.php';
+			                            $no = 1;
+			                            $data = mysqli_query($koneksi,"SELECT * FROM jadwal_malam 
+			                            	JOIN kategori ON jadwal_malam.kategori_id=kategori.kategori_id
+			                            	JOIN matkul ON jadwal_malam.matkul_id=matkul.matkul_id
+			                            	JOIN dosen ON jadwal_malam.dosen_id=dosen.dosen_id");
+			                            while($d = mysqli_fetch_array($data)) {
+			                        ?>
+									<tr>
+										<td><?php echo $no++; ?></td>
+										<!-- <td><?php echo $d['jadwal_id']; ?></td> -->
+										<td><?php echo $d['kategori']; ?></td>
+										<td><?php echo $d['hari']; ?></td>
+										<td><?php echo $d['matkul']; ?></td>
+										<td><?php echo $d['ruang']; ?></td>
+										<td><?php echo $d['jam']; ?></td>
+										<td><?php echo $d['nama_dosen']; ?></td>
+									</tr><?php } ?>
+								</tbody>
+							</table>
+						</div>
+            		</div>
+            	</div>
 			</section>
 			<!-- End course-details Area -->
 			
